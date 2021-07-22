@@ -144,6 +144,9 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
+                            201 Project
+                          </h6>
+                          <h6 className="text-primary text-uppercase">
                             Luxura
                           </h6>
                           <p className="description mt-3">
@@ -163,17 +166,17 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="primary"
-                            href="https://github.com/Gryffindor-team/Luxura"
-                            
+                            href="https://gryffindor-team.github.io/Luxura"
                           >
-                            see Project in GitHub
+                            The Project Website  
                           </Button>
                           <Button
                             className="mt-4"
                             color="primary"
-                            href="https://gryffindor-team.github.io/Luxura"
+                            href="https://github.com/Gryffindor-team/Luxura"
+                            
                           >
-                            the website
+                           Group Project in Github 
                           </Button>
                         </CardBody>
                       </Card>
@@ -185,12 +188,13 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                            301 Project
+                          </h6>
+                          <h6 className="text-success text-uppercase">
+                            O2 Arts
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          We Built our website for the artists who want to sell his or her paintings online by showing a digital copy of the painting.
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
@@ -206,10 +210,18 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="success"
-                            href="#pablo"
-                            onClick={e => e.preventDefault()}
+                            href="https://o2art.netlify.app"
                           >
-                            Learn more
+                           The Project Website
+                          
+                          </Button>
+                          <Button
+                            className="mt-4"
+                            color="success"
+                            href="https://github.com/O2-developres"
+                          >
+                           Group Project in Github 
+                           
                           </Button>
                         </CardBody>
                       </Card>
@@ -438,9 +450,9 @@ class Landing extends React.Component {
                           </div>
                         </div>
                         <div className="pl-4">
-                          <h5 className="title text-success">
+                          {/* <h5 className="title text-success">
                             Awesome Support
-                          </h5>
+                          </h5> */}
                           <p>
                           hi. My name is Mayyadah, I like technologies and everything related to it, I like to learn new things, especially computer programs, translation, edit photos and videos, and now my passion in web programming.
                           </p>

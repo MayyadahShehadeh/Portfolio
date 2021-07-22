@@ -54,7 +54,7 @@ class Icons extends React.Component {
               </Col>
             </Row>
             <div className="blur--hover">
-              {/* <a href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/icons?ref=adsr-landing-page">
+              <a href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/icons?ref=adsr-landing-page">
                 <div className="icons-container blur-item mt-5 on-screen">
                   <i className="icon ni ni-diamond" />
                   <i className="icon icon-sm ni ni-album-2" />
@@ -73,7 +73,7 @@ class Icons extends React.Component {
                 <span className="blur-hidden h5 text-success">
                   Eplore all the 21.000+ Nucleo Icons
                 </span>
-              </a> */}
+              </a>
             </div>
           </Container>
         </section>

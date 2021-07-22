@@ -88,11 +88,11 @@ class Profile extends React.Component {
                         <Button
                           className="mr-4"
                           color="#FF8C64"
-                          href="#pablo"
+                          href="./Landing.jss"
                           onClick={e => e.preventDefault()}
                           size="sm"
                         >
-                          Connect
+                          My Projects
                         </Button>
                         <Button
                           className="float-right"
